@@ -25,7 +25,7 @@ _Almost there! :heart:_
 
 You can now [merge](https://docs.github.com/get-started/quickstart/github-glossary#merge) your pull request!
 
-### :keyboard: Activity: Merge your pull request
+### :keyboard: Activity: Merge your pull request 😁
 
 1. Go to the **Pull requests** tab.
 1. Click **Merge pull request**.
